@@ -1,4 +1,7 @@
-﻿/*Zaimplementować prostą wersję (bez wyrażeń regularnych) programu ''grep''. Program wypisuje
+﻿// zmiana w branch "new" plik 1
+
+
+/*Zaimplementować prostą wersję (bez wyrażeń regularnych) programu ''grep''. Program wypisuje
 wszystkie linie z podanego pliku które zawierają wybraną frazę. Plik jest przetwarzany po linii.
 Przykładowe wywołanie:
 grep <fraza> <nazwa_pliku> */
