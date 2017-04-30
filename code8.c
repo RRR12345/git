@@ -1,3 +1,6 @@
+// zmiana w branch "new" plik 1
+
+
 #include<stdio.h>
 #include<iostream.h>
 #include <math.h>
