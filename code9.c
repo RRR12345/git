@@ -1,3 +1,6 @@
+// zmiana w branch "new" plik 1
+
+
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
