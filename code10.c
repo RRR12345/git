@@ -1,3 +1,6 @@
+// zmiana w branch "new" plik 1
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
