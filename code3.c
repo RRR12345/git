@@ -1,4 +1,7 @@
-﻿/*Zaimplementować dynamiczną listę jednokierunkową zawierającą dane osobowe :imię, nazwisko, rok urodzenia.
+﻿// zmiana w branch "new" plik 1
+
+
+/*Zaimplementować dynamiczną listę jednokierunkową zawierającą dane osobowe :imię, nazwisko, rok urodzenia.
 Program musi zawierać osobne funkcje realizujące następujące operacje:
 * wypisywanie listy
 * dodawanie nowego elementu na początku listy
