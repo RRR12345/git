@@ -1,4 +1,7 @@
-﻿/*Zaimplementować dynamiczną listę dwukierunkową zawierającą dane osobowe :imię, nazwisko,
+﻿// zmiana w branch "new" plik 1
+
+
+/*Zaimplementować dynamiczną listę dwukierunkową zawierającą dane osobowe :imię, nazwisko,
 rok urodzenia. Program musi zawierać osobne funkcje realizujące następujące operacje:
 * wyszukiwanie elementów wg. roku urodzenia, imienia, nazwiska
 * dodawanie nowego elementu na początku listy
