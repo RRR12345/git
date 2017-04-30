@@ -1,4 +1,6 @@
-﻿ /* Napisz funkcję char * deleteLastChar(char* s) która wylicza długość napisu s i usuwa z niego ostatni
+﻿// zmiana w branch "new" plik 1
+
+ /* Napisz funkcję char * deleteLastChar(char* s) która wylicza długość napisu s i usuwa z niego ostatni
  znak poprzez zmniejszenie rozmiaru tablicy zawierającej napis - funkcja przydziela dokładnie tyle pamięci,
  ile potrzebuje nowy napis (bez ostatniej litery) i zwalnia pamięć przydzieloną staremu. Funkcja zwraca
  adres nowo przydzielonej pamięci. Po każdym usunięciu kolejnego znaku program (main) ma wypisać napis.
