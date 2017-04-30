@@ -1,4 +1,7 @@
-﻿/*Zaimplementować strukturę opisującą liczbę zespoloną, a następnie funkcje realizujące podstawowe
+﻿// zmiana w branch "new" plik 1
+
+
+/*Zaimplementować strukturę opisującą liczbę zespoloną, a następnie funkcje realizujące podstawowe
  operacje na liczbach zespolonych (obowiązkowo dodawanie, moduł, liczba sprzężona, nadobowiązkowo
 odejmowanie, mnożenie dzielenie). Funkcje, których wynikiem działania jest struktura powinny ją
 zwrócić poprzez return.
